@@ -7,7 +7,7 @@ hometown <- 'Seoul'
 my.name <- "Hyewon Kim"
 
 # Assign your height to a variable `my.height`
-my.height <- 163
+my.height <- 64.2
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
 puppies <- 3
